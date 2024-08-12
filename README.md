@@ -18,7 +18,7 @@ Welcome to the installation guide for **Oaken's custom modpack**! This guide wil
 
 ### 2. Download the Modpack
 
-- Visit the GitHub page where Oaken's custom modpack is hosted.
+- Visit the GitHub page where Oaken's custom [modpack is hosted](https://github.com/SirOaken/Oakens-MC-modpack/tags)
 - Download the exported instance file from the GitHub repository. This file is usually a `.zip` or `.json` file containing the modpack data.
 
 ### 3. Import the Modpack into MultiMC
