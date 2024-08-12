@@ -7,6 +7,7 @@ Welcome to the installation guide for **Oaken's custom modpack**! This guide wil
 1. **Java 17.0.9 x64**: Ensure you have Java 17.0.9 x64 installed on your computer.
 2. **MultiMC**: Download and install MultiMC from [the official MultiMC website](https://multimc.org/).
 3. **GitHub Access**: Have access to the GitHub page where Oaken's custom modpack files are hosted.
+4. **Sever Acess**: Contact Oaken via Telegram or discord for whitelist access.
 
 ## Step-by-Step Installation Guide
 
