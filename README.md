@@ -51,6 +51,8 @@ Welcome to the installation guide for **Oaken's custom modpack**! This guide wil
 
 - **Issues**: If you encounter any problems with the modpack, please report them on the GitHub page under the "Issues" tab.
 - **Support**: Provide detailed information when reporting issues to help resolve problems quickly.
+- **Tips**
+  - If you are having launch errors please restart your pc. This is a tried and tested fix for rare issue.
 
 ## Additional Notes
 
