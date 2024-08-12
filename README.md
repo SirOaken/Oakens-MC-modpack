@@ -1,65 +1,61 @@
-# Oakens-MC-modpack
+# Oaken's Custom Modpack Installation Guide
 
-Guide to Setting Up Your Custom Minecraft Modpack Using MultiMC
+Welcome to the installation guide for **Oaken's custom modpack**! This guide will help you set up the modpack using MultiMC with Java 17.0.9 x64.
 
-Welcome to the guide for setting up Oaken's custom Minecraft modpack! This guide will walk you through the steps needed to get your modpack up and running using MultiMC, with Java 17.0.9 x64, and Oaken's completed pack.
+## Prerequisites
 
-Prerequisites
+1. **Java 17.0.9 x64**: Ensure you have Java 17.0.9 x64 installed on your computer.
+2. **MultiMC**: Download and install MultiMC from [the official MultiMC website](https://multimc.org/).
+3. **GitHub Access**: Have access to the GitHub page where Oaken's custom modpack files are hosted.
 
-    Java 17.0.9 x64: Ensure that you have Java 17.0.9 x64 installed on your computer. This is necessary for running your modpack.
-      https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
-    MultiMC: Download and install MultiMC from the official MultiMC website.
-      https://multimc.org/#Download
-    GitHub Access: Have access to the GitHub page where your modpack files are hosted.
+## Step-by-Step Installation Guide
 
-Step-by-Step Installation Guide
-1. Download MultiMC
+### 1. Download MultiMC
 
-    Go to the MultiMC website.
-    Download and install.
-    Open MultiMC after installation.
+- Go to the [MultiMC website](https://multimc.org/).
+- Download and install the version appropriate for your operating system.
+- Open MultiMC after installation.
 
-2. Download the Modpack
+### 2. Download the Modpack
 
-    Visit your GitHub page where the modpack is hosted.
-    Download the exported instance file from the GitHub repository. This file is typically a .zip file that contains all the necessary modpack data.
+- Visit the GitHub page where Oaken's custom modpack is hosted.
+- Download the exported instance file from the GitHub repository. This file is usually a `.zip` or `.json` file containing the modpack data.
 
-3. Import the Modpack into MultiMC
+### 3. Import the Modpack into MultiMC
 
-    Open MultiMC.
-    Click on the "Add Instance" button located in the top-left corner of the MultiMC interface.
-    Select "Import from ZIP" or "Import from Folder," depending on the file type you downloaded from GitHub.
-    Locate and select the downloaded modpack file.
-    MultiMC will import the modpack and set it up with the necessary configurations.
+- Open MultiMC.
+- Click on the "Add Instance" button located in the top-left corner of the MultiMC interface.
+- Select "Import from ZIP" or "Import from Folder," depending on the file type you downloaded from GitHub.
+- Locate and select the downloaded modpack file.
+- MultiMC will import the modpack and set it up with the necessary configurations.
 
-4. Configure RAM Allocation
+### 4. Configure RAM Allocation
 
-    With the modpack instance selected in MultiMC, click on the "Edit Instance" button.
-    Go to the "Settings" tab.
-    Under the "Java" section, set the allocated RAM to at least 3GB. You can adjust this in the "Memory" field.
-    Ensure that the settings are saved.
+- With the modpack instance selected in MultiMC, click on the "Edit Instance" button.
+- Go to the "Settings" tab.
+- Under the "Java" section, set the allocated RAM to at least 3GB. Adjust this in the "Memory" field.
+- Save the settings.
 
-5. Launch the Modpack
+### 5. Launch the Modpack
 
-    Once the instance is set up, click on the "Launch" button to start Minecraft with your custom modpack.
-    MultiMC will handle the setup and launch Minecraft with the modpack preconfigured.
+- Once the instance is set up, click on the "Launch" button to start Minecraft with Oaken's custom modpack.
+- MultiMC will handle the setup and launch Minecraft with the modpack preconfigured.
 
-Updating Your Modpack
+## Updating Your Modpack
 
-    Updates: Any updates to the modpack will be posted on Oakens MP GitHub page.
-    Updating: To update your modpack, download the new version from the GitHub repository and repeat the import process in MultiMC.
-    *Can Delete old instance, just note this will delete any configuration edits yu made from reference file*
+- **Updates**: Any updates to Oaken's custom modpack will be posted on the GitHub page.
+- **Updating**: To update, download the new version from the GitHub repository and repeat the import process in MultiMC.
 
-Troubleshooting
+## Troubleshooting
 
-    Issues: If you encounter any problems with the modpack, please report them on the GitHub page under the "Issues" tab.
-    Support: Provide as much detail as possible when reporting issues to help in troubleshooting and resolving problems quickly.
+- **Issues**: If you encounter any problems with the modpack, please report them on the GitHub page under the "Issues" tab.
+- **Support**: Provide detailed information when reporting issues to help resolve problems quickly.
 
-Additional Notes
+## Additional Notes
 
-    Java Version: Ensure you are using Java 17.0.9 x64 as this version is required for compatibility with the modpack.
-    RAM Requirements: Allocating at least 3GB of RAM is crucial for smooth performance of the modpack.
+- **Java Version**: Ensure you are using Java 17.0.9 x64 for compatibility.
+- **RAM Requirements**: Allocate at least 3GB of RAM for smooth performance.
 
-By following this guide, you should have your custom Minecraft modpack up and running smoothly with MultiMC. Enjoy your gaming experience!
+By following this guide, you should have Oaken's custom modpack set up and running smoothly with MultiMC. Enjoy your Minecraft experience!
 
-For any further assistance, don’t hesitate to reach out through the GitHub page or consult additional MultiMC documentation.
+For further assistance, reach out through the GitHub page or consult additional MultiMC documentation.
