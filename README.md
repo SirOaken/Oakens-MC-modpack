@@ -44,6 +44,8 @@ Welcome to the installation guide for **Oaken's custom modpack**! This guide wil
 - Once the instance is set up, click on the "Launch" button to start Minecraft with Oaken's custom modpack.
 - MultiMC will handle the setup and launch Minecraft with the modpack preconfigured.
 
+###
+
 ## Updating Your Modpack
 
 - **Updates**: Any updates to Oaken's custom modpack will be posted on the GitHub page.
@@ -51,7 +53,7 @@ Welcome to the installation guide for **Oaken's custom modpack**! This guide wil
   - download the new version from the GitHub repository,
   - extract the zip,
   - navigate to your instance root folder,
-    - "SYSTEMDRIVE\MultiMC\instances\INSTANCENAME\".minecraft"\"
+    - "SYSTEMDRIVE\MultiMC\instances\INSTANCENAME\minecraft\"
   - Delete Folders found in the downloaded zip from the instance,
   - Drag the folders from the zip into the root folder.
 
