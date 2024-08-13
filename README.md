@@ -2,12 +2,14 @@
 
 Welcome to the installation guide for **Oaken's custom modpack**! This guide will help you set up the modpack using MultiMC with Java 17.0.9 x64.
 
+[**Info on how to update**]()
+
 ## Prerequisites
 
 1. **Java 17.0.9 x64**: Ensure you have Java 17.0.9 x64 installed on your computer.
 2. **MultiMC**: Download and install MultiMC from [the official MultiMC website](https://multimc.org/).
 3. **GitHub Access**: Have access to the GitHub page where Oaken's custom modpack files are hosted.
-4. **Sever Acess**: Contact Oaken via Telegram or discord for whitelist access.
+4. **Sever Acess**: Contact Oaken via Telegram or Discord for whitelist access.
 
 ## Step-by-Step Installation Guide
 
@@ -45,7 +47,13 @@ Welcome to the installation guide for **Oaken's custom modpack**! This guide wil
 ## Updating Your Modpack
 
 - **Updates**: Any updates to Oaken's custom modpack will be posted on the GitHub page.
-- **Updating**: To update, download the new version from the GitHub repository and repeat the import process in MultiMC.
+- **Updating**: To update,
+  - download the new version from the GitHub repository,
+  - extract the zip,
+  - navigate to your instance root folder,
+    - "SYSTEMDRIVE\MultiMC\instances\INSTANCENAME\.minecraft\"
+  - Delete Folders found in the downloaded zip from the instance,
+  - Drag the folders from the zip into the root folder.
 
 ## Troubleshooting
 
