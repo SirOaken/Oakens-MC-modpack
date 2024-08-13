@@ -2,7 +2,7 @@
 
 Welcome to the installation guide for **Oaken's custom modpack**! This guide will help you set up the modpack using MultiMC with Java 17.0.9 x64.
 
-[**Info on how to update**]()
+[**Info on how to update**](https://github.com/SirOaken/Oakens-MC-modpack/blob/main/README.md#updating-your-modpack)
 
 ## Prerequisites
 
