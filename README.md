@@ -51,7 +51,7 @@ Welcome to the installation guide for **Oaken's custom modpack**! This guide wil
   - download the new version from the GitHub repository,
   - extract the zip,
   - navigate to your instance root folder,
-    - "SYSTEMDRIVE\MultiMC\instances\INSTANCENAME\.minecraft\"
+    - "SYSTEMDRIVE\MultiMC\instances\INSTANCENAME\".minecraft"\"
   - Delete Folders found in the downloaded zip from the instance,
   - Drag the folders from the zip into the root folder.
 
